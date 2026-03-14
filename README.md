@@ -78,25 +78,23 @@ A hands-on Excel project built to practice and evaluate intermediate Excel skill
 
 ## 📸 Screenshots
 
-> *(Add your screenshots to the `screenshots/` folder and they will display here)*
-
 ### Dashboard
-![Dashboard](Excel Screenshots/Dashboard.png)
+![Dashboard](Excel-Screenshots/Dashboard.png)
 
 ### Revenue by Region & Category
-![Pivot Region](Excel Screenshots/pivot-region.png)
+![Pivot Region](Excel-Screenshots/pivot-region.png)
 
 ### Monthly Revenue & Profit Margin Trend
-![Pivot Monthly](Excel Screenshots/pivot-monthly.png)
+![Pivot Monthly](Excel-Screenshots/pivot-monthly.png)
 
 ### Raw Data
-![Raw Data](Excel Screenshots/raw-data.png)
+![Raw Data](Excel-Screenshots/raw-data.png)
 
 ---
 
 ## 💡 What I Learned
 
-This was my first real Excel project and it was more challenging than I expected. A few things that stood out:
+This Excel project was more challenging than I expected. A few things that stood out:
 
 - Clean data matters more than anything — I ran into a date format issue early on that took a while to debug before I could start any analysis
 - PivotTables are incredibly powerful once you understand how rows, columns, and values interact
@@ -104,14 +102,6 @@ This was my first real Excel project and it was more challenging than I expected
 
 ---
 
-## 🚀 How to Use
 
-1. Download `superstore_sales_project.xlsx`
-2. Open in Microsoft Excel (2016 or later recommended)
-3. Start on the **📋 Tasks & Guide** sheet for instructions
-4. Do your work in the **✏️ Your Work** sheet
-5. Raw data is in the **📦 Raw Data** sheet
-
----
 
 *Built as a self-evaluation project to practice intermediate Excel skills.*
