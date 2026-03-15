@@ -79,7 +79,7 @@ A hands-on Excel project built to practice and evaluate intermediate Excel skill
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](Excel-Screenshots/Dashboard.png)
+![Dashboard](Excel-Screenshots/dashboard.png)
 
 ### Revenue by Region & Category
 ![Pivot Region](Excel-Screenshots/pivot-region.png)
