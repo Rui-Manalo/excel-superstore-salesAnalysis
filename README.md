@@ -36,7 +36,7 @@ A hands-on Excel project built to practice and evaluate intermediate Excel skill
 ### 1. Data Cleaning & Formatting
 - Formatted date column to `DD-MMM-YYYY`
 - Applied currency formatting to Revenue, Cost, and Profit columns
-- Added conditional formatting — Profit Margin % highlights red if below 10%, green if above 25%
+- Added conditional formatting — Profit Margin % highlights red if below 40%, green if above 40%
 
 ### 2. Named Ranges
 - Created named ranges for the full dataset, Revenue column, and Region column for cleaner formulas
