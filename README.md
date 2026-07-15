@@ -1,10 +1,10 @@
-# 📊 Superstore Sales Analysis — Excel Project
+#  Superstore Sales Analysis — Excel Project
 
 A hands-on Excel project built to practice and evaluate intermediate Excel skills using a realistic business sales dataset.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ├── superstore_sales_project.xlsx   # Main Excel workbook
@@ -18,7 +18,7 @@ A hands-on Excel project built to practice and evaluate intermediate Excel skill
 
 ---
 
-## 📦 Dataset Overview
+##  Dataset Overview
 
 | Detail | Info |
 |---|---|
@@ -31,7 +31,7 @@ A hands-on Excel project built to practice and evaluate intermediate Excel skill
 
 ---
 
-## ✅ What I Built
+##  What I Built
 
 ### 1. Data Cleaning & Formatting
 - Formatted date column to `DD-MMM-YYYY`
@@ -70,13 +70,13 @@ A hands-on Excel project built to practice and evaluate intermediate Excel skill
 
 ---
 
-## 🛠️ Skills Practiced
+##  Skills Practiced
 
 `PivotTables` `VLOOKUP` `XLOOKUP` `SUMIF` `COUNTIF` `INDEX/MATCH` `Conditional Formatting` `Data Validation` `Charts` `Slicers` `Named Ranges` `Dashboard Design`
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Dashboard
 ![Dashboard](Excel-Screenshots/dashboard.png)
@@ -92,7 +92,7 @@ A hands-on Excel project built to practice and evaluate intermediate Excel skill
 
 ---
 
-## 💡 What I Learned
+##  What I Learned
 
 This Excel project was more challenging than I expected. A few things that stood out:
 
@@ -102,6 +102,9 @@ This Excel project was more challenging than I expected. A few things that stood
 
 ---
 
+## Author
+Made by Rui Manalo · [LinkedIn](https://www.linkedin.com/in/rui-manalo-71350a376), [Portfolio](https://www.datascienceportfol.io/ruicourse3)
 
 
-*Built as a self-evaluation project to practice intermediate Excel skills.*
+
+
